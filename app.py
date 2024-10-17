@@ -1,5 +1,6 @@
 import numpy as np
-
+import nltk
+nltk.download('punkt')
 def predict_win(features_dict):
     # Define the feature order and ensure all features are included
     feature_names = [
