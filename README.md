@@ -37,7 +37,7 @@ These features are crucial for understanding player behavior and predicting thei
 ## 🛠️ How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PUBG-GAME-PREDICTION.git
+    git clone https://github.com/NeerajAnthal/PUBG-GAME-PREDICTION.git
     ```
 2. Install the necessary dependencies:
     ```bash
