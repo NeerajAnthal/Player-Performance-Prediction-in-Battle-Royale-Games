@@ -1,4 +1,4 @@
-# 🎮 PUBG Game Prediction 🏆
+# 🎮 Player Performance Prediction in Battle Royale Games🏆
 
 ![PUBG Jump from Plane](https://w0.peakpx.com/wallpaper/505/66/HD-wallpaper-pubg-jump-from-plane-pubg-playerunknowns-battlegrounds-2018-games-games-thumbnail.jpg)
 
@@ -37,7 +37,7 @@ These features are crucial for understanding player behavior and predicting thei
 ## 🛠️ How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/NeerajAnthal/PUBG-GAME-PREDICTION.git
+    git clone https://github.com/NeerajAnthal/Player-Performance-Prediction-in-Battle-Royale-Games.git
     ```
 2. Install the necessary dependencies:
     ```bash
@@ -45,7 +45,7 @@ These features are crucial for understanding player behavior and predicting thei
     ```
 3. Run the notebook to train the model:
     ```bash
-    jupyter notebook PUBG_Prediction.ipynb
+    jupyter notebook Player-Performance-Prediction-in-Battle-Royale-Games.ipynb
     ```
 
 ## 💻 Installation
